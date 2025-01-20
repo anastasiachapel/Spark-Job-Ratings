@@ -14,8 +14,9 @@ This project consists of two Jupyter Notebooks that analyze and derive insights 
    - **Total Markdown Cells:** 8
 
 ## 🛠️ Technologies Used
-- Python
-- Jupyter Notebook
+- NiFi (data ingestion)
+- HDFS (data atorage)
+- Spark (data processing, data engineering & data analytics)
 - Pandas, NumPy (for data manipulation)
 - Matplotlib, Seaborn (for visualization)
 
